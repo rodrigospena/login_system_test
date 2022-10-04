@@ -13,10 +13,10 @@ class User {
   }
 }
 
-new User("rodrigospena","João Rodrigo Soares Pena","joaorodrigopena@gmail.com","19","84","39931")
-new User("ceciaprile","Cecília Costa Aprile Velloso","ceciliaprile2003@gmail.com","19","43","251803")
-new User("gabispena","Gabriela Soares Pena Novaes","gabisoarespena@gmail.com","27","67","0822")
-new User("brenovaes","","","","","7067") 
+new User("rodrigospena","João R S Pena","joaorodrigopena@gmail.com","19","84","1a2b3c")
+new User("ceciaprile","Cecília C A Velloso","ceciliaprile2003@gmail.com","19","43","123456")
+new User("gabispena","Gabriela S P Novaes","gabisoarespena@gmail.com","27","67","senha123")
+new User("brenovaes","","","","","senhabreno") 
 
 //  Login
 function Login(id,password) {
